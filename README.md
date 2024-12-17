@@ -34,5 +34,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-portfolio-builder.git
+   git clone https://github.com/your-username/ai-agent-web-portfolio-builder.git
    cd ai-portfolio-builder
