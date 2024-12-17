@@ -36,3 +36,7 @@
    ```bash
    git clone https://github.com/your-username/ai-agent-web-portfolio-builder.git
    cd ai-portfolio-builder
+
+## Explanation
+
+The code for the app is on the master branch in main.py and the output files for the example that I performed are in portfolio.html, styles.css and scripts.js.  The code, when run correctly with your Openai API key, will automatically create these same files for you, but using the inputs from your resume.  This is an AI agent because of the multiple calls to different OpenAI models.
