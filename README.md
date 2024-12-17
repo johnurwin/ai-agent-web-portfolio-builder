@@ -1,6 +1,6 @@
 # 🚀 AI Portfolio Builder
 
-**AI Portfolio Builder** is a command-line tool that uses OpenAI’s GPT models to help you generate a professional portfolio website automatically. The script collects your details, generates content, improves it for clarity and professionalism, and creates a polished portfolio website with clean HTML, CSS, and JS files.
+**AI Portfolio Builder** is a command-line tool that uses OpenAI’s GPT models to help you generate a professional portfolio website automatically. The script asks you for your resume as an input, collects your details, generates content, improves it for clarity and professionalism, and creates a polished portfolio website with clean HTML, CSS, and JS files.
 
 ---
 
